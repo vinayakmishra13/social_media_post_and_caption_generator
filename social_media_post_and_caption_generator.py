@@ -1,4 +1,3 @@
-
 """Social_media_post_and_caption_generator.py
 
 ### Install Required Libraries
