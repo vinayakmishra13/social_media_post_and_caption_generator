@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
-"""Social_media_post_and_caption_generator.ipynb
+
+"""Social_media_post_and_caption_generator.py
 
 ### Install Required Libraries
 Install the necessary Python packages like `transformers`and `gradio`.
